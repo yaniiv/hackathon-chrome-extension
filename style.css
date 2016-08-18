@@ -1,0 +1,58 @@
+/** {
+	box-sizing: border-box;
+}*/
+
+div {
+	height: 100px;
+	width: 80%;
+	/*border: 1px solid black;*/
+	margin: auto;
+}
+
+#main-div {
+	height: 100%;
+	width: 80%;
+	border: 0px solid black;
+	margin: auto;
+	padding-top: 10%;
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+textarea {
+	width: 100%;
+	height: 100%;
+	resize: none;
+	font-size: 18px;
+	/*border: 1px solid black;*/
+}
+
+/*button {
+	width: 80px;
+	height: 40px;
+}*/
+
+input{
+	margin: 0;
+	height: 20px;
+	font-size: 20px;
+}
+
+
+.note {
+	border: 1px solid black;
+	margin-bottom: 50px;
+}
+
+.title {
+	float: left;
+}
+
+.titleText {
+	height: 20px;
+}
+
+
